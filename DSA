@@ -1,0 +1,44 @@
+Week 1 — Arrays & Strings
+
+| Day | Questions |
+|---|---|
+| **1** | 1. Reverse a `char[]` in-place  2. Check palindrome  3. Find largest element  4. Find second-largest  5. Count character frequency |
+| **2** | 1. Find duplicate elements  2. Remove duplicates  3. Find missing number  4. Find minimum element  5. Reverse an integer |
+| **3** | 1. Two Sum  2. Move zeros to end  3. Rotate array  4. Merge sorted arrays  5. Find intersection |
+| **4** | 1. First non-repeating character  2. Check anagram  3. Reverse words  4. Remove duplicate characters  5. Find longest word |
+| **5** | 1. Maximum subarray sum  2. Minimum subarray sum  3. Stock buy/sell once  4. Sort 0s/1s/2s  5. Find majority element |
+| **6** | 1. Longest substring without duplicates  2. Longest common prefix  3. String compression  4. Check rotation  5. Count vowels/consonants |
+| **7** | **Revision/mock:** redo the 5 problems you found hardest during Days 1–6 |
+
+
+Week 2 — Collections + HashMap/HashSet
+
+| Day | Questions |
+|---|---|
+| **8** | 1. Frequency using HashMap  2. Find duplicates using HashSet  3. Two Sum using HashMap  4. First unique character  5. Group anagrams |
+| **9** | 1. Top K frequent elements  2. Longest consecutive sequence  3. Common elements in 3 arrays  4. Find pairs with given sum  5. Count subarrays with given sum |
+| **10** | 1. Sort HashMap by value  2. Sort employees by salary  3. Convert List to Map  4. Merge two Maps  5. Find duplicate objects |
+| **11** | 1. LinkedHashMap use case  2. TreeMap sorting  3. LRU cache concept  4. Character frequency preserving order  5. Find first repeated word |
+| **12** | 1. Missing + duplicate number  2. Find common characters  3. Find longest zero-sum subarray  4. Find pair difference K  5. Count distinct elements |
+| **13** | 1. Implement stack using queues  2. Queue using stacks  3. Min stack  4. Valid parentheses  5. Next greater element |
+| **14** | **Mock:** 5 mixed Array + HashMap + Collections problems |
+
+Week 3 — Java 8 Streams
+
+| Day | Questions |
+|---|---|
+| **15** | 1. Filter even numbers  2. Square numbers  3. Find max/min  4. Sort numbers  5. Remove duplicates |
+| **16** | 1. Find 3 cheapest products  2. Find highest salary  3. Second-highest salary  4. Sort employees by salary  5. Find employees above salary X |
+| **17** | 1. Group employees by department  2. Count employees by department  3. Highest salary by department  4. Average salary by department  5. Partition employees by 
+| **20** | 1. Find second-highest number  2. Top 3 numbers  3. Sum numbers  4. Product using reduce  5. Find longest string |
+| **21** | **Java 8 mock:** 5 Stream API problems |
+
+Week 4 — Linked List + Stack + Queue
+
+| Day | Questions |
+|---|---|
+| **22** | 1. Reverse linked list  2. Find middle node  3. Find length  4. Search node  5. Remove node |
+| **23** | 1. Detect cycle  2. Find cycle start  3. Merge sorted lists  4. Remove nth node  5. Find intersection |
+| **24** | 1. Valid parentheses  2. Min stack  3. Next greater element  4. Evaluate postfix  5. Balanced brackets |
+| **25** | 1. Queue implementation  2. Circular queue  3. Stack using queue  4. Queue using stacks  5. PriorityQueue top K |
+| **26** | 1. Sliding-window maximum  2. K largest elements  3. Kth largest element  4. Merge K sorted lists  5. Median using heaps |
