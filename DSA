@@ -38,7 +38,7 @@ Week 4 — Linked List + Stack + Queue
 | Day | Questions |
 |---|---|
 | **22** | 1. Reverse linked list  2. Find middle node  3. Find length  4. Search node  5. Remove node |
-| **23** | 1. Detect cycle  2. Find cycle start  3. Merge sorted lists  4. Remove nth node  5. Find intersection |
-| **24** | 1. Valid parentheses  2. Min stack  3. Next greater element  4. Evaluate postfix  5. Balanced brackets |
-| **25** | 1. Queue implementation  2. Circular queue  3. Stack using queue  4. Queue using stacks  5. PriorityQueue top K |
-| **26** | 1. Sliding-window maximum  2. K largest elements  3. Kth largest element  4. Merge K sorted lists  5. Median using heaps |
+| **23** | 1. Detect cycle  2. Find cycle start  3. Merge K sorted lists  4. Remove nth node  5. Find intersection |
+| **24** |  1. Evaluate postfix    2. Queue implementation  3. Circular queue    4. PriorityQueue top K |
+
+| **25** | 1. Sliding-window maximum  2. K largest elements  3. Kth largest element    4. Median using heaps 
